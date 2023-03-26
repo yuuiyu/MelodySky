@@ -8,3 +8,5 @@
 
 
 ## 此仓库仅用于存档melodysky，文件内的rat并未清除，请勿使用！！！ 造成的任何后果自己承担！
+
+MelodySky Irc Ip 101.43.12.25 Port 25565 Protocol socket
